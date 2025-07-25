@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 713.68 245.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cfecfb;
+        stroke: #6ecff6;
+        stroke-miterlimit: 10;
+        stroke-width: 23px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #6ecff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 130px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="11.5" y="11.5" width="690.68" height="222.03" rx="45" ry="45"/>
+  <text class="cls-3" transform="translate(177.09 147.92) scale(.81 1)"><tspan x="0" y="0">P</tspan><tspan class="cls-4" x="73.71" y="0">R</tspan><tspan class="cls-2" x="138.97" y="0">OFILE</tspan></text>
+</svg>

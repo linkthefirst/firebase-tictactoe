@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1786.7 1327.13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cfecfb;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #6ccff6;
+        stroke-miterlimit: 10;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #6ecff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 250px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="12.5" y="12.5" width="1761.7" height="1302.13" rx="36" ry="36"/>
+  <line class="cls-2" x1="12.5" y1="340.16" x2="1774.2" y2="340.16"/>
+  <text class="cls-5" transform="translate(211.49 229.39)"><tspan x="0" y="0">LE</tspan><tspan class="cls-3" x="238.74" y="0">A</tspan><tspan x="354.49" y="0">DER</tspan><tspan class="cls-4" x="736.48" y="0">B</tspan><tspan x="857.73" y="0">OARD</tspan></text>
+</svg>

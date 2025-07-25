@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 654.75 253.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d1eefc;
+        stroke: #6ccff6;
+        stroke-miterlimit: 10;
+        stroke-width: 20px;
+      }
+
+      .cls-2 {
+        fill: #6ccff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 150px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="10" y="10" width="634.75" height="233.9" rx="36" ry="36"/>
+  <text class="cls-2" transform="translate(213.6 155.24)"><tspan x="0" y="0">GO!</tspan></text>
+</svg>

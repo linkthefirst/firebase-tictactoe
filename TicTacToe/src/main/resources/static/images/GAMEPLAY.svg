@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1786.7 1327.13">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #cfecfb;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #6ccff6;
+        stroke-miterlimit: 10;
+        stroke-width: 25px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-8 {
+        fill: #6ecff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 200px;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x="12.5" y="12.5" width="1761.7" height="1302.13" rx="36" ry="36"/>
+  <line class="cls-6" x1="12.5" y1="340.16" x2="1774.2" y2="340.16"/>
+  <text class="cls-8" transform="translate(109.64 221.18)"><tspan class="cls-7" x="0" y="0">G</tspan><tspan x="107.4" y="0">AMEP</tspan><tspan class="cls-1" x="541.99" y="0">L</tspan><tspan class="cls-3" x="632.59" y="0">A</tspan><tspan class="cls-4" x="719.39" y="0">Y HI</tspan><tspan class="cls-10" x="1057.58" y="0">S</tspan><tspan class="cls-9" x="1146.58" y="0">T</tspan><tspan x="1239.98" y="0">O</tspan><tspan class="cls-2" x="1365.18" y="0">R</tspan><tspan class="cls-4" x="1467.58" y="0">Y</tspan></text>
+</svg>

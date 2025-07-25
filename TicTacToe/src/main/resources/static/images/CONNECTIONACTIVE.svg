@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 713.68 245.03">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-2 {
+        fill: #cfecfb;
+        stroke: #6ecff6;
+        stroke-miterlimit: 10;
+        stroke-width: 23px;
+      }
+
+      .cls-3 {
+        fill: #6ecff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 122.88px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-2" x="11.5" y="11.5" width="690.68" height="222.03" rx="45" ry="45"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-3" transform="translate(66.12 146.95) scale(.84 1)"><tspan class="cls-4" x="0" y="0">C</tspan><tspan class="cls-5" x="58.98" y="0">ONN</tspan><tspan class="cls-1" x="275.98" y="0">E</tspan><tspan class="cls-7" x="330.29" y="0">C</tspan><tspan x="385.58" y="0">T</tspan><tspan class="cls-6" x="449.11" y="0">I</tspan><tspan x="491.01" y="0">ONS</tspan></text>
+  </g>
+</svg>

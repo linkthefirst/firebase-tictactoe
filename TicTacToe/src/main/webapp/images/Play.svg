@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1685.53 672.77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-2 {
+        fill: #6ccff6;
+        font-family: GlowingBubble, 'Glowing Bubble';
+        font-size: 350px;
+      }
+
+      .cls-3 {
+        fill: #d1eefc;
+        stroke: #6ccff6;
+        stroke-miterlimit: 10;
+        stroke-width: 60px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" x="30" y="30" width="1625.53" height="612.77" rx="72" ry="72"/>
+  <text class="cls-2" transform="translate(496.15 410.83)"><tspan x="0" y="0">P</tspan><tspan class="cls-4" x="198.45" y="0">L</tspan><tspan class="cls-1" x="356.99" y="0">A</tspan><tspan x="508.89" y="0">Y</tspan></text>
+</svg>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tic-Tac-Toe App</title>
+  <link rel="stylesheet" href="design.css?v=2">
+
+  <!-- ✅ Your Firebase-based modules -->
+  <script type="module" src="auth.js"></script>
+  <script type="module" src="script.js?v=2"></script>
+</head>
+
+<body>
+  <header>
+    <h1>Tic-Tac-Toe</h1>
+    <nav>
+      <ul>
+        <li><a href="#" id="registerTab">REGISTER</a></li>
+        <li><a href="#" id="loginTab">LOGIN</a></li>
+        <li><a href="#" id="signOutBtn">SIGN OUT</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div id="TabButtonWrapper">
+    <a href="#" id="connectionsTab">
+      <img src="images/Play.svg" alt="Connections">
+    </a>
+    <a href="#" id="profileTab">
+      <img src="images/profile.svg" alt="Profile">
+    </a>
+  </div>
+
+  <main>
+    <!-- Connections Tab -->
+    <section id="connections" class="tab-content">
+      <div class="PlayChoice">
+        <!-- HOST SECTION -->
+        <div class="host-wrapper">
+          <button class="play-button" id="hostGameBtn">HOST GAME</button>
+          <div id="hostCodeArea" style="display: none;">
+            <div id="gameCodeDisplay"></div>
+            <button id="copyCodeBtn">
+              <img src="images/copy.svg" alt="host">
+            </button>
+          </div>
+        </div>
+
+        <!-- JOIN SECTION -->
+        <div class="join-wrapper">
+          <button class="play-button" id="showJoinFieldsBtn">JOIN GAME</button>
+          <div id="joinControlsWrapper" style="display: none;">
+            <input type="text" id="joinCodeInput" placeholder="Enter Game Code to Join">
+            <button id="joinByCodeBtn">
+              <img src="images/go.svg" alt="join">
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <h2>Tic-Tac-Toe Game</h2>
+      <div id="board"></div>
+      <div id="message"></div>
+      
+      <!-- Single rematch wrapper -->
+      <div id="rematchWrapper">
+        <button id="rematchButton" class="play-button" style="display: none;">REMATCH</button>
+      </div>
+    </section>
+
+    <!-- Profile Tab -->
+    <section id="profile" class="tab-content">
+      <div id="profileHeader">
+        <div id="usernameDisplay" class="welcome-message">Welcome, Sign In To View Your History</div>
+        <div class="stats">
+          <div class="stat-box">
+            <p class="wins">Wins</p>
+            <div class="placeholder" id="winsCount">0</div>
+          </div>
+          <div class="stat-box">
+            <p class="losses">Losses</p>
+            <div class="placeholder" id="lossesCount">0</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Register Tab -->
+    <section id="user-registration" class="tab-content">
+      <h2>Create Account</h2>
+      <form id="registrationForm">
+        <label for="username">Username:</label>
+        <input type="text" id="username" required><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" required><br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" required><br><br>
+        <button type="submit">Create Account</button>
+      </form>
+      <div id="registrationMessage"></div>
+    </section>
+
+    <!-- Login Tab -->
+    <section id="user-login" class="tab-content">
+      <h2>Login</h2>
+      <form id="loginForm">
+        <label for="emailLogin">Email:</label>
+        <input type="email" id="emailLogin" required><br><br>
+        <label for="passwordLogin">Password:</label>
+        <input type="password" id="passwordLogin" required><br><br>
+        <button type="submit">Login</button>
+      </form>
+      <div id="loginMessage"></div>
+    </section>
+  </main>
+</body>
+</html>
